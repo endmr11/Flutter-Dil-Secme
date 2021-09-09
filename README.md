@@ -1,6 +1,6 @@
 # dil_secme
 
-A new Flutter project.
+Flutter da Dil Seçme
 
 ## Getting Started
 
